@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>icons/go-next.png</file>
+        <file>icons/go-previous.png</file>
+        <file>icons/view-refresh.png</file>
+    </qresource>
+</RCC>
